@@ -1,6 +1,13 @@
-numpy
+flask
+flask-sqlalchemy
+flask-login
+requests
 pandas
+numpy
 scikit-learn
-matplotlib
-seaborn
--e .
+xgboost
+prophet
+joblib
+plotly
+python-dotenv
+bcrypt
